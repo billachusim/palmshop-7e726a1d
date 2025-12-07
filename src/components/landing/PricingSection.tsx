@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 const plans = [
   {
     name: "Free",
-    price: "$0",
+    price: "₦0",
     period: "forever",
     description: "Perfect for getting started and small vendors",
     features: [
@@ -20,7 +20,7 @@ const plans = [
   },
   {
     name: "Pro",
-    price: "$19",
+    price: "₦15,000",
     period: "per month",
     description: "For growing businesses that need more power",
     features: [
@@ -39,7 +39,7 @@ const plans = [
   },
   {
     name: "Business",
-    price: "$49",
+    price: "₦40,000",
     period: "per month",
     description: "For established businesses with multiple locations",
     features: [
